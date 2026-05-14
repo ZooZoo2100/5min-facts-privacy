@@ -51,6 +51,18 @@ These services may collect information according to their own privacy policies.
 
 Learning progress and saved insights are stored locally on your device. If you uninstall the app, this local data may be deleted.
 
+## Data Deletion Requests
+
+5min Facts does not require an account and does not store user data on our own servers.
+
+Learning progress, saved insights, streaks, and settings are stored locally on the user's device. Users can delete this local data by using the Reset Progress option in the app settings or by uninstalling the app.
+
+For questions or requests related to data deletion, contact:
+
+Zohaaq1@gmail.com
+
+Advertising data may be handled by Google AdMob. Users can manage or reset their advertising ID through their device settings and Google privacy controls.
+
 ## Contact
 
 If you have questions about this Privacy Policy, contact:
