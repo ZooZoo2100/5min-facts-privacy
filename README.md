@@ -55,4 +55,4 @@ Learning progress and saved insights are stored locally on your device. If you u
 
 If you have questions about this Privacy Policy, contact:
 
-Zohaaq1@hotmail.com
+Zohaaq1@gmail.com
